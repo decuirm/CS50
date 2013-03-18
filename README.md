@@ -1,4 +1,4 @@
 CS50
 ====
 
-Code from Harvard's CS50x: Introduction to Computer Science course
+Code written for Harvard's CS50x: Introduction to Computer Science course
